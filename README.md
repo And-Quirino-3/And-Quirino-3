@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, Sou Anderson Quirino <strong>Sou um Desenvolvedor FullStack</strong>.<br>
+  Olá, Sou Anderson Quirino, mas podem me chamar de Dinho. <strong>Sou um Desenvolvedor FullStack</strong>.<br>
   No momento estou estudando desenvolvimento de software na Cubos Academy.
 </p>
 
