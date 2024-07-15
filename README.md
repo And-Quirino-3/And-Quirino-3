@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá, Eu Sou Anderson Quirino, mas podem me chamar de Dinho. <strong>Sou um Desenvolvedor FullStack</strong>.<br>
-  No momento eu estudo Desenvolvimento de Software Fullstack na Cubos Academy.
+  No momento estudo Desenvolvimento de Software Fullstack na Cubos Academy.
 </p>
 
 <p align="left">
