@@ -1,9 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, Eu Sou Anderson Quirino, mas podem me chamar de Dinho. <strong>Sou um Desenvolvedor FullStack</strong>.<br>
-  No momento estudo Desenvolvimento de Software Fullstack na Cubos Academy.
-</p>
+  Olá! Meu nome é Anderson Quirino da Silva, e sou um entusiasta da tecnologia com um forte desejo de transformar minha paixão em uma carreira sólida. Atualmente, estou em transição de carreira, migrando do suporte técnico para o desenvolvimento de software, uma área que sempre me fascinou pela sua capacidade de criar soluções inovadoras e impactantes.
 
 <p align="left">
   🦄 Linguagens: Javascript | TypeScript | Node | React | HTML | CSS | SQL
